@@ -1,7 +1,7 @@
 # Movie Ticket Booking System
 
 ## Description
-This is a command-line based Movie Ticket Booking System developed in Java. It allows users to book movie tickets for various movies and showtimes. It also provides admin functionalities like adding or removing movies and changing showtimes.
+This is a Movie Ticket Booking System developed in Java. It allows users to book movie tickets for various movies and showtimes. It also provides admin functionalities like adding or removing movies and changing showtimes.
 
 ## Tables
 1. Users Table
